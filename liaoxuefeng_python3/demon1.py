@@ -4,4 +4,3 @@
 # @Author  : SunWang
 # @File    : demon1.py
 
-print("the first commit,hello github!!!")
